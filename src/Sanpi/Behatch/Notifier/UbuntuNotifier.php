@@ -1,6 +1,6 @@
 <?php
 
-namespace Sanpi\Behatch\Notifiers;
+namespace Sanpi\Behatch\Notifier;
 
 use Behat\Behat\Formatter\ConsoleFormatter;
 
