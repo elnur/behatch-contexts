@@ -3,4 +3,5 @@ behatch_contexts.phar
 bin/
 composer.lock
 composer.phar
+fixtures/www/xml/feed.xml
 vendor
